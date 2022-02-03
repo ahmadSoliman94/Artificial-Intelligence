@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep Learning: Projects &amp; Courses
+Deep Learning: Projects & Courses
