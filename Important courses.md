@@ -22,12 +22,4 @@ https://learnwithhusnain.com/category/machine-deep-learning/
 #### `Segmentation`
 https://youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE
 
-
-// resets
-s { text-decoration:none; } //strike-through
-em { font-style: normal; font-weight: bold; } //italic emphasis
-
-
-// colors
-s { color: green }
-em { color: blue }
+<ins>text</ins>
