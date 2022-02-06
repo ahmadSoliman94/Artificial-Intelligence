@@ -23,5 +23,4 @@ https://learnwithhusnain.com/category/machine-deep-learning/
 https://youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE
 
 
-<span style="color:orange;">Word up</span>
-`
+![Red text](http://placehold.it/size/background-hex/foreground-hex?text=a123)
