@@ -21,6 +21,6 @@ https://learnwithhusnain.com/category/machine-deep-learning/
 
 #### `Machine Learning`
 
--[] https://www.youtube.com/watch?v=jGwO_UgTS7I 
+- [ ] https://www.youtube.com/watch?v=jGwO_UgTS7I 
 
--[] https://www.youtube.com/watch?v=Sh7gw3W-VD4&list=PLnYosD8Da-WHwJK1Wul_7tKTaAgBbOHBN
+- [ ] https://www.youtube.com/watch?v=Sh7gw3W-VD4&list=PLnYosD8Da-WHwJK1Wul_7tKTaAgBbOHBN
