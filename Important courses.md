@@ -21,3 +21,5 @@
 
 #### `Segmentation`
 - https://youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE
+
+[Go to the Support Web Site](https://support.west-wind.com)
