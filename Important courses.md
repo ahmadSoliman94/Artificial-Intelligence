@@ -12,7 +12,7 @@
 - [ ] <ins>UvA Deep Learning course</ins>: https://www.youtube.com/channel/UCpvn0ycxIA6Uf8W00OX3frQ
 
 #### `computer Vision`
- - [ ] <ins>Ahmad ibrahim</ins>: https://www.youtube.com/channel/UC_TWGuu0nCqwu3CiMwxlXDA ِ 
+ - [ ] [<ins>Ahmad ibrahim</ins>](https://www.youtube.com/channel/UC_TWGuu0nCqwu3CiMwxlXDA) 
 
 #### `Projects`
 - https://www.pyimagesearch.com/category/medical/
