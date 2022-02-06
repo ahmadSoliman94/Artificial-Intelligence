@@ -23,4 +23,11 @@ https://learnwithhusnain.com/category/machine-deep-learning/
 https://youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE
 
 
-![Red text](http://placehold.it/size/background-hex/foreground-hex?text=a123)
+// resets
+s { text-decoration:none; } //strike-through
+em { font-style: normal; font-weight: bold; } //italic emphasis
+
+
+// colors
+s { color: green }
+em { color: blue }
