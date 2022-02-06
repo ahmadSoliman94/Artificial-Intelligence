@@ -18,7 +18,7 @@
 
 #### `Projects`
 
-https://www.pyimagesearch.com/category/medical/ \n
+https://www.pyimagesearch.com/category/medical/\
 https://learnwithhusnain.com/category/machine-deep-learning/
 
 #### `Segmentation`
