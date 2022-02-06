@@ -5,6 +5,7 @@
 #### `Deep Learning`
 - [x]  Mostafa: https://drive.google.com/drive/folders/1JaK5uo7hVGFp7oIwBWQXwFDrNK4-5LDw
 - [ ]  Hussam Hourani: https://www.youtube.com/watch?v=bpp_yzyWiNo&list=PLYW0LRZ3ePo7TpIVGYjFbUfCICkTxwU7p
+<span style="color:blue">some *blue* text</span>.
 
 #### `Pytorch`
 - [ ] Udmey
