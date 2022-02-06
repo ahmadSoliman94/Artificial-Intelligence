@@ -15,9 +15,11 @@
  - [ ] <ins>Ahmad ibrahim</ins>: https://www.youtube.com/channel/UC_TWGuu0nCqwu3CiMwxlXDA ِ 
 
 #### `Projects`
-https://www.pyimagesearch.com/category/medical/
+- https://www.pyimagesearch.com/category/medical/
 
-https://learnwithhusnain.com/category/machine-deep-learning/
+- https://learnwithhusnain.com/category/machine-deep-learning/
+
+- https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI
 
 #### `Segmentation`
-https://youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE
+- https://youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE
