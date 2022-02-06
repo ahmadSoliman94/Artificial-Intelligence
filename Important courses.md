@@ -16,9 +16,7 @@
 
 #### `Projects`
 - https://www.pyimagesearch.com/category/medical/
-
 - https://learnwithhusnain.com/category/machine-deep-learning/
-
 - https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI
 
 #### `Segmentation`
