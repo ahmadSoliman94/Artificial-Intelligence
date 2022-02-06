@@ -23,4 +23,4 @@ https://learnwithhusnain.com/category/machine-deep-learning/
 
 - [ ] stanfordonline: https://www.youtube.com/watch?v=jGwO_UgTS7I 
 
-- [ ] Artificial Intelligence - Machine Learning (Ar): https://www.youtube.com/watch?v=Sh7gw3W-VD4&list=PLnYosD8Da-WHwJK1Wul_7tKTaAgBbOHBN
+- [ ] Machine Learning (Ar): https://www.youtube.com/watch?v=Sh7gw3W-VD4&list=PLnYosD8Da-WHwJK1Wul_7tKTaAgBbOHBN
