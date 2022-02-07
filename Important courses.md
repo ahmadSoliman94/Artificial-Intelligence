@@ -1,6 +1,8 @@
 #### `Machine Learning` 
+- [ki-campus](https://ki-campus.org/)
 - [<ins>stanfordonline</ins>](https://www.youtube.com/watch?v=jGwO_UgTS7I) 
 - [<ins>Machine Learning (Ar)</ins>](https://www.youtube.com/watch?v=Sh7gw3W-VD4&list=PLnYosD8Da-WHwJK1Wul_7tKTaAgBbOHBN)
+
 
 #### `Deep Learning`
 - [Mostafa](https://drive.google.com/drive/folders/1JaK5uo7hVGFp7oIwBWQXwFDrNK4-5LDw)
@@ -21,5 +23,3 @@
 
 #### `Segmentation`
 - [DigitalSreeni](https://youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE)
-
-#### - `[ki-campus](https://ki-campus.org/)`
