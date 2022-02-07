@@ -22,4 +22,4 @@
 #### `Segmentation`
 - [DigitalSreeni](https://youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE)
 
-#### `https://ki-campus.org/`
+#### - `[ki-campus](https://ki-campus.org/)`
