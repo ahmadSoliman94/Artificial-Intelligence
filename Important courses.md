@@ -1,6 +1,6 @@
 #### `Machine Learning` 
 - [<ins>ki-campus</ins>](https://ki-campus.org/)
-- [<ins>stanfordonline</ins>](https://www.youtube.com/watch?v=jGwO_UgTS7I) 
+- [<ins>coursera</ins>](https://www.coursera.org/learn/machine-learning/home/week/1) 
 - [<ins>Machine Learning (Ar)</ins>](https://www.youtube.com/watch?v=Sh7gw3W-VD4&list=PLnYosD8Da-WHwJK1Wul_7tKTaAgBbOHBN)
 
 
