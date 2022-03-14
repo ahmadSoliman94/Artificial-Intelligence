@@ -1,6 +1,5 @@
 #### `Machine Learning` 
 - [<ins>ki-campus</ins>](https://ki-campus.org/)
-- [<ins>coursera</ins>](https://www.coursera.org/learn/machine-learning/home/week/1) 
 - [<ins>Machine Learning (HeshamAsem)</ins>](https://www.youtube.com/c/HeshamAsem/playlists)
 - [<ins>Electro Pi</ins>](https://classroom.google.com/c/NDY4MjE5MDg1MjIz?cjc=2tjv7zw)
 
