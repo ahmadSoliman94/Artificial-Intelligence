@@ -24,3 +24,4 @@
 
 #### `Segmentation`
 - [DigitalSreeni](https://youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE)
+- [DigitalSreeni (Github)](https://github.com/bnsreenu/python_for_microscopists)
