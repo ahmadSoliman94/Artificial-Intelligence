@@ -1,6 +1,7 @@
 #### `Machine Learning` 
 - [<ins>ki-campus</ins>](https://ki-campus.org/)
 - [<ins>Machine Learning (HeshamAsem)</ins>](https://www.youtube.com/c/HeshamAsem/playlists)
+- [<ins>Machine Learning (HeshamAsem-Python Code)</ins>](https://docs.google.com/document/d/1BX7k8q2X7C32DB2TJFqk5a2CJDg-aUBJTJIVqwo1A4Y/edit)
 - [<ins>Electro Pi</ins>](https://classroom.google.com/c/NDY4MjE5MDg1MjIz?cjc=2tjv7zw)
 
 
