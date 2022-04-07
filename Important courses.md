@@ -26,3 +26,6 @@
 #### `Segmentation`
 - [DigitalSreeni](https://youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE)
 - [DigitalSreeni (Github)](https://github.com/bnsreenu/python_for_microscopists)
+
+#### `Data Cleaning`
+- [Hesham Haroon](https://github.com/h9-tect/Data-Cleaning-and-Exploration-with-Machine-Learning/tree/main/4.%20PruningEncodingandRescalingFeatures?fbclid=IwAR1CSWenonv06pvZLDB5sgHqA0W9J040UOhUWBWVG9GuuhVKe_n7WYZpxt8)
