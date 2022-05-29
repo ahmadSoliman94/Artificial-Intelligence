@@ -29,3 +29,4 @@
 
 #### `Data Cleaning`
 - [Hesham Haroon](https://github.com/h9-tect/Data-Cleaning-and-Exploration-with-Machine-Learning/tree/main/4.%20PruningEncodingandRescalingFeatures?fbclid=IwAR1CSWenonv06pvZLDB5sgHqA0W9J040UOhUWBWVG9GuuhVKe_n7WYZpxt8)
+- [Hesham Assem](https://github.com/HeshamAsem/Sklearn)
