@@ -3,6 +3,7 @@
 - [<ins>Machine Learning (HeshamAsem)</ins>](https://www.youtube.com/c/HeshamAsem/playlists)
 - [<ins>Machine Learning (HeshamAsem-Python Code)</ins>](https://docs.google.com/document/d/1BX7k8q2X7C32DB2TJFqk5a2CJDg-aUBJTJIVqwo1A4Y/edit)
 - [<ins>Electro Pi</ins>](https://classroom.google.com/c/NDY4MjE5MDg1MjIz?cjc=2tjv7zw)
+- [<ins>Andrew Ng</ins>](https://www.coursera.org/learn/machine-learning)
 
 
 #### `Deep Learning`
@@ -17,16 +18,13 @@
 
 #### `computer Vision`
 - [<ins>Ahmad ibrahim</ins>](https://www.youtube.com/channel/UC_TWGuu0nCqwu3CiMwxlXDA) 
-
-#### `Projects`
+- [DigitalSreeni](https://youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE)
+- [DigitalSreeni (Github)](https://github.com/bnsreenu/python_for_microscopists)
 - [Medical Computer Vision](https://www.pyimagesearch.com/category/medical/)
 - [Tutorial Point](https://learnwithhusnain.com/category/machine-deep-learning/)
 - [Murtaza's Workshop](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI)
 
-#### `Segmentation`
-- [DigitalSreeni](https://youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE)
-- [DigitalSreeni (Github)](https://github.com/bnsreenu/python_for_microscopists)
 
-#### `Data Cleaning`
-- [Hesham Haroon](https://github.com/h9-tect/Data-Cleaning-and-Exploration-with-Machine-Learning/tree/main/4.%20PruningEncodingandRescalingFeatures?fbclid=IwAR1CSWenonv06pvZLDB5sgHqA0W9J040UOhUWBWVG9GuuhVKe_n7WYZpxt8)
-- [Hesham Assem](https://github.com/HeshamAsem/Sklearn)
+
+
+
