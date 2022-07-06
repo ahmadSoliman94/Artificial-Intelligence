@@ -13,8 +13,6 @@
 
 #### `Pytorch`
 - [Udmey](https://www.udemy.com/share/105tbz3@6iqw9RFTyGWj0csjz1IF3y8w8VzFJgf6bqR0Ns7cCtCuimbO2X6WpO_3m9q7ER_u/)
-- [<ins>UvA Deep Learning course</ins>](https://www.youtube.com/channel/UCpvn0ycxIA6Uf8W00OX3frQ)
-- [<ins>UvA Deep Learning course (Github)</ins>](https://github.com/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.ipynb)
 - [<ins>Udacity</ins>](https://www.udacity.com/course/deep-learning-pytorch--ud188?fbclid=IwAR1JDRjzXE1pa76fXzb9orsUz8V8QkXz-OyvU7QtIcg6Pi0eXdzPefQA7O8&fs=e&s=cl)
 
 #### `computer Vision`
