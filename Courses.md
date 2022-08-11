@@ -18,6 +18,7 @@
 - [<ins>Udacity</ins>](https://www.udacity.com/course/deep-learning-pytorch--ud188?fbclid=IwAR1JDRjzXE1pa76fXzb9orsUz8V8QkXz-OyvU7QtIcg6Pi0eXdzPefQA7O8&fs=e&s=cl)
 
 #### `computer Vision`
+- [<ins>Mohammad Fouad</ins>](https://drive.google.com/drive/folders/1j4-YCK4Wdh97Oz1MeeIaXj9RDbIRic70?fbclid=IwAR0k-C9UjkUPW44z2yKK1G-vSl5qkbw_9IiFgqKf307ubijdCAWx_eMg84w)
 - [<ins>Ahmad ibrahim</ins>](https://www.youtube.com/channel/UC_TWGuu0nCqwu3CiMwxlXDA) 
 - [DigitalSreeni](https://youtube.com/playlist?list=PLZsOBAyNTZwbR08R959iCvYT3qzhxvGOE)
 - [DigitalSreeni (Github)](https://github.com/bnsreenu/python_for_microscopists)
